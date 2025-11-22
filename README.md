@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### GitHub repository and deployed link in readme 
+
+GitHub_repository : (https://github.com/AnupamVishwkarma/tutedude)
+
+deployed_link : https://majestic-liger-e54187.netlify.app/
